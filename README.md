@@ -1,7 +1,7 @@
 Creating a Chat App
 
 Note: Instructions assume you are using AWS Cloud9.
-      Cloning repo refers to the origin projects repo in a private repo. Access may be available upon request.
+      Cloning repo refers to the original projects repo, which is in a private repo. Access may be available upon request.
 
 # Setup the Translator
 1. Start off small by running the command `pip install translate`
