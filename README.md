@@ -103,7 +103,7 @@ These terminal tabs will be refered to as A, B, and C.
    A downside to users being able to change their name whenever is that people are practically anonymous. 
    I should have made a database that stored usernames and passwords so I could add a login feature.
 
-Issues I Encountered (to be updated in more detail):
+Issues I Encountered:
 1. The first issue I encountered was when running the project in the web browser it was working but,
    in the Cloud9 terminal I kept getting errors and my program would not display in the preview running application window.
    It turned out that hard refreshing was only working in the other browser window and not in Cloud 9 window.
